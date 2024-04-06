@@ -1,8 +1,4 @@
-print(hellooo)
-print(how are you)
-
-
-
-
-print(happy)
-
+i=1
+while i<=8
+print i * "*"
+i+=0
